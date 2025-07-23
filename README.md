@@ -1,16 +1,16 @@
 # U.S. Hospital Readmission & Care Quality Dashboard
 
-📊 **Built with Power BI | Dataset: CMS Hospital Readmissions**
+Built with Power BI | Dataset: CMS Hospital Readmissions
 
 ---
 
-## 🔍 Overview
+ Overview
 
 This project presents a Power BI dashboard that visualizes key care quality metrics — including **hospital readmission rates** and **average length of stay** — across U.S. hospitals. The dashboard allows filtering by state and condition to support decision-making in population health, care coordination, and health policy analysis.
 
 ---
 
-## 📦 Dataset
+Dataset
 
 **Source:** Centers for Medicare & Medicaid Services (CMS)  
 **Link:** [CMS Provider Data - Readmissions and Length of Stay](https://data.cms.gov/provider-data/dataset/9n3s-kdb3)  
@@ -18,7 +18,7 @@ This project presents a Power BI dashboard that visualizes key care quality metr
 
 ---
 
-## 💡 Key Features
+Key Features
 
 - **Map View**: Readmission rates by U.S. state  
 - **Bar Chart**: Top 10 hospitals with highest readmission rates  
@@ -28,7 +28,7 @@ This project presents a Power BI dashboard that visualizes key care quality metr
 
 ---
 
-## 🔧 Tools Used
+ Tools Used
 
 - Power BI Desktop  
 - Data cleaning and transformation via Power Query  
@@ -36,7 +36,7 @@ This project presents a Power BI dashboard that visualizes key care quality metr
 
 ---
 
-## 📁 Files
+📁 Files
 
 - `CMS_Hospital_Readmissions.csv` – Source data  
 - `Readmission_Dashboard.pbix` – Power BI file  
@@ -44,7 +44,7 @@ This project presents a Power BI dashboard that visualizes key care quality metr
 
 ---
 
-## ✅ Skills Demonstrated
+ Skills Demonstrated
 
 - Healthcare data analysis  
 - Data visualization with Power BI  
@@ -54,7 +54,7 @@ This project presents a Power BI dashboard that visualizes key care quality metr
 
 ---
 
-## 📬 Contact
+ Contact
 
 **Samira Wahab**  
 - GitHub: [github.com/samiraawahab](https://github.com/samiraawahab)  
